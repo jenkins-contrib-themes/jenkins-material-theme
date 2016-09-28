@@ -1,3 +1,5 @@
+# Moved to: http://github.com/afonsof/jenkins-material-theme 
+
 ![image](http://jenkins-contrib-themes.github.io/jenkins-material-theme/images/logo.svg)
 # jenkins-material-theme
 Beautify your Jenkins with the Material Design theme!

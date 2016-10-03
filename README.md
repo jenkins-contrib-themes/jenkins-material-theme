@@ -1,4 +1,4 @@
-# Moved to: http://github.com/afonsof/jenkins-material-theme 
+# Official repo: http://github.com/afonsof/jenkins-material-theme 
 
 ![image](http://afonsof.com/jenkins-material-theme/images/logo.svg)
 # jenkins-material-theme
